@@ -1,0 +1,1300 @@
+fileFormatVersion: 2
+guid: 69d747f2ea47c7d478e915de39e6a08a
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: mmx6sheetfull - copia_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 952
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 952
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 952
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 952
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 952
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_5
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 952
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 952
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 899
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 897
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 893
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_10
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 891
+        width: 23
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_11
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 892
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_12
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 894
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_13
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 893
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_14
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 892
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_15
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 892
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_16
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 893
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_17
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 896
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 833
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 833
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_20
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 833
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 834
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_22
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 834
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 779
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 779
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_25
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 780
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_26
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 781
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 781
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_28
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 780
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_29
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 780
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 780
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_31
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 780
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_32
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 781
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_33
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 780
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_34
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 780
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_35
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 779
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_36
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 779
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_37
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 779
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_38
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 779
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 729
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_40
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 728
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_41
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 728
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_42
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 728
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_43
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 728
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_44
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 728
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_45
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 728
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_46
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 728
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_47
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 658
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_48
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 655
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_49
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 652
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_50
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 651
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_51
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 652
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_52
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 652
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_53
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 649
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_54
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 651
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 650
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_56
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 651
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_57
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 652
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_58
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 596
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_59
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 596
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_60
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 595
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_61
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 596
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_62
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 599
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_63
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 599
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_64
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 600
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_65
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 598
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_66
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 598
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_67
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 601
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_68
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 600
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_69
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 599
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_70
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 598
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_71
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 598
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_72
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 596
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_73
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 596
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_74
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 539
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_75
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 536
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_76
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 534
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_77
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 533
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_78
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 523
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_79
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 519
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_80
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 520
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_81
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 520
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_82
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 466
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_83
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 460
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_84
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 462
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_85
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 461
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_86
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 461
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_87
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 460
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_88
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 460
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_89
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 455
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_90
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 458
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_91
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 458
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_92
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 458
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_93
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 456
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_94
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 361
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_95
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 367
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_96
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 363
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 365
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_98
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 369
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_99
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 372
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_100
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 367
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_101
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 366
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_102
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 370
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_103
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 375
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_104
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 395
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_105
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 402
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_106
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 381
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_107
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 382
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_108
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 285
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_109
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 282
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_110
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 279
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_111
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 276
+        width: 95
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_112
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 271
+        width: 101
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_113
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 271
+        width: 102
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_114
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 269
+        width: 100
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_115
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 272
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_116
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 268
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_117
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 272
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_118
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 223
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_119
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 222
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_120
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_121
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 223
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_122
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 143
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_123
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 140
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_124
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 142
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_125
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 138
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_126
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 142
+        width: 99
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_127
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 144
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_128
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 143
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_129
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 140
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_130
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 122
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_131
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 70
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_132
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 71
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_133
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 70
+        width: 89
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_134
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 70
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_135
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 71
+        width: 92
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_136
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 75
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_137
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 73
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mmx6sheetfull - copia_138
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 73
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
